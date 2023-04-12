@@ -15,9 +15,11 @@ dependencies:
   screen_brightness_platform_interface: ">=0.1.0 <1.0.0"
 #  screen_brightness_platform_interface:
 #    path: ../screen_brightness_platform_interface/
-  screen_brightness_android: ">=0.1.0 <1.0.0"
-#  screen_brightness_android:
-#    path: ../screen_brightness_android
+  screen_brightness_android:
+   git:
+      url: git@github.com:aaassseee/screen_brightness.git
+      path: screen_brightness_android
+      ref: develop
   screen_brightness_ios: ">=0.1.0 <1.0.0"
 #  screen_brightness_ios:
 #    path: ../screen_brightness_ios
