@@ -1,3 +1,11 @@
+## 0.2.5
+
+* Fix compile error
+
+## 0.2.3
+
+* Make library buildable on tvOS 
+
 ## 0.2.2+1
 
 * updated topics

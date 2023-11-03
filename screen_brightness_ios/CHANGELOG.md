@@ -1,3 +1,7 @@
+## 0.1.3
+
+* Make library buildable on tvOS
+
 ## 0.1.0
 
 * added fade animation when brightness changed
